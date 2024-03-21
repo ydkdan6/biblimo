@@ -1,0 +1,1 @@
+export const image1 = require('../images/Credit-card.jpg').default;
