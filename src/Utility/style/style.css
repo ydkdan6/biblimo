@@ -266,12 +266,12 @@
 
   .card {
     position: absolute;
-    bottom: 5rem;
+    bottom: 8rem;
     display: flex;
     justify-content: center;
     background-color: transparent ;
     border: 1px solid #115DFC;
-    color: #fff;
+    color: #000;
     height: 19rem;
     overflow-y: scroll;
     width: 22rem;
@@ -305,7 +305,7 @@
 
   .daily {
     position: absolute;
-    bottom: 4rem;
+    bottom: 6rem;
     width: 85%;
     margin-left: 2rem;
   }
