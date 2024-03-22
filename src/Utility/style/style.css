@@ -266,7 +266,7 @@
 
   .card {
     position: absolute;
-    bottom: 8rem;
+    bottom: 6rem;
     display: flex;
     justify-content: center;
     background-color: transparent ;
