@@ -227,13 +227,13 @@
 
   section h2 {
     position: absolute;
-    top: 9rem;
+    top: 7.8rem;
     left: 0.6rem;
   }
 
   .description {
     position: absolute;
-    top: 11rem;
+    top: 10rem;
     left: 0.6rem;
     height: 4rem;
     width: 21.8rem;
@@ -266,7 +266,7 @@
 
   .card {
     position: absolute;
-    bottom: 6rem;
+    bottom: 5.5rem;
     display: flex;
     justify-content: center;
     background-color: transparent ;
