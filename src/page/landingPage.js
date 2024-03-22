@@ -7,7 +7,7 @@ import '../Utility/style/style.css'
 export default function LandingPage() {
     
     return (
-        <div className= "container w-76">
+        <div className= "wrapper w-76">
             <div className="flex justify-center items-center mt-2">
                 <img src={image1} alt= "Banner-image" />
             </div>

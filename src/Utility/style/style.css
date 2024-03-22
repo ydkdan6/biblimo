@@ -2,7 +2,7 @@
 
 
 
-.container{
+.wrapper{
   height: 100%;
   width: auto;
   position: absolute;
@@ -13,14 +13,14 @@
   overflow-x: hidden;
 }
 
-.container .txt {
+.wrapper .txt {
   position: absolute;
-  top: 18.5rem;
+  top: 19.5rem;
   text-align: center;
   width: 20rem;
 }
 
-.container .txt2 {
+.wrapper .txt2 {
   text-align: center;
 }
 
