@@ -248,12 +248,13 @@
     bottom: 5rem;
     display: flex;
     justify-content: center;
-    background-color: #115DFC ;
+    background-color: transparent ;
+    border: 1px solid #115DFC;
     color: #fff;
     height: 19rem;
     overflow-y: scroll;
     width: 23rem;
-    margin-left: 0.7rem;
+    margin-left: 0.4rem;
     margin-bottom: 2rem;
   }
 
