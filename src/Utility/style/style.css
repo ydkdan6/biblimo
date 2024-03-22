@@ -216,7 +216,7 @@
     top: 11rem;
     left: 0.6rem;
     height: 4rem;
-    width: 23rem;
+    width: 21.8rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -225,7 +225,8 @@
   .description input {
     border: 1px solid transparent;
     height: 3rem;
-    width: 15.5rem;
+    width: 12.5rem;
+    padding-left: 1rem;
   }
 
   .description button {
@@ -239,7 +240,7 @@
   }
 
   .description .mic {
-    width: 3rem;
+    width: 3.4rem;
     height:2.7rem;
   }
 
@@ -253,7 +254,7 @@
     color: #fff;
     height: 19rem;
     overflow-y: scroll;
-    width: 23rem;
+    width: 22rem;
     margin-left: 0.4rem;
     margin-bottom: 2rem;
   }
