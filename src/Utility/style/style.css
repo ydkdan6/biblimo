@@ -2,7 +2,27 @@
 
 
 
+.container{
+  height: 100%;
+  width: auto;
+  position: absolute;
+  right: 0.8rem;
+  top: 4rem;
+  bottom: 3rem;
+  margin: 0;
+  overflow-x: hidden;
+}
 
+.container .txt {
+  position: absolute;
+  top: 18.5rem;
+  text-align: center;
+  width: 20rem;
+}
+
+.container .txt2 {
+  text-align: center;
+}
 
 .input {
     border: 1px solid black;
