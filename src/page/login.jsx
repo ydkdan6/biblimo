@@ -90,7 +90,7 @@ export default function Login () {
   </div>
   <button title="Sign In" type="submit" className="sign-in_btn">
     
-      <Link to="/Dashboard">Log In</Link>
+      <Link to="/dashboard">Log In</Link>
   </button>
   <p className="note">Terms of use &amp; Conditions</p>
 </form>
